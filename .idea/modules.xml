@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PRML/.idea/PRML.iml" filepath="$PROJECT_DIR$/../PRML/.idea/PRML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PRML-Jiang.iml" filepath="$PROJECT_DIR$/.idea/PRML-Jiang.iml" />
+    </modules>
+  </component>
+</project>
